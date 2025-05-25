@@ -12,3 +12,5 @@ Key features:
  • Robotic Arm: Custom-designed 2-DOF arm, 3D printed and driven by two SG90 servo motors.
  • Power Supply: 11.1V 1500mAh LiPo battery with multiple buck converters.
  • Assembly: All components were soldered on a double-sided dot board and mounted onto an acrylic base.
+
+![alt text](https://github.com/BinethGeesara/Voyegers/blob/4440dd22125c8ca9071cd6539414d0aa0c330160/IMG_7569.jpg)
