@@ -1,4 +1,4 @@
-# Voyegers
+# Autonomous Multitasking Robot Team Voyegers
 This multitasking robot was designed to complete several tasks: line following, wall following, and pick & place operations.
 This is the first robot we ever built , a team project developed as part of our Embedded Systems module.
 
