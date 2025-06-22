@@ -26,5 +26,5 @@ Our very first robot build — developed as a team project as part of the Embedd
 
 # Robot Performance
 
-[![Watch the video]((https://www.linkedin.com/posts/bineth-geesara-a98969297_robotics-embeddedsystems-teamwork-activity-7266661906294222848-9Y3n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfeBNQBkxvHhLFMtJ-lYl7r2bBT0q9gNOU))
+[!Watch the video]((https://www.linkedin.com/posts/bineth-geesara-a98969297_robotics-embeddedsystems-teamwork-activity-7266661906294222848-9Y3n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfeBNQBkxvHhLFMtJ-lYl7r2bBT0q9gNOU))
 # ------------
